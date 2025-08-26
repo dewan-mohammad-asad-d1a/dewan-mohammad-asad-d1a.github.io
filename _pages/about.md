@@ -11,6 +11,18 @@ Hello, I am Dewan Mohammad Asad, an Electrical Engineer and Research Assistant d
 
 ---
 
+🚀 Academic Objectives
+===================
+I am eager to leverage my multifaceted experience to pursue a **Ph.D.** and contribute to groundbreaking research in:
+
+*   **Power Electronics & Drives**
+*   **Electric Vehicles**
+*   **AI/ML Applications in Power Systems**
+*   **Smart Grids & Microgrids**
+
+I am actively seeking to join a visionary research group where I can both learn from and contribute to tackling the critical energy challenges of our time.
+
+---
 
 Research Highlights
 ===================
@@ -44,7 +56,7 @@ Research Highlights
 - Pioneering the application of AI-driven optimization algorithms including Particle Swarm Optimization (PSO), Genetic Algorithms, and Reinforcement Learning for control tuning.
 - Analyzing converter behavior in both Continuous Conduction Mode (CCM) and Discontinuous Conduction Mode (DCM).
 
-**Acquired Skills:** DC-DC Converter Design & Control, AI/ML for Power Electronics, Optimization Algorithms (PSO, GA, RL), Simulation (MATLAB/Simulink, PLECS).
+**Acquired Skills:** DC-DC Converter Design & Control, AI/ML for Power Electronics, Optimization Algorithms (PSO, GA, ANN, ANFIS, RL), Simulation (MATLAB/Simulink, PLECS).
 
 ---
 
@@ -55,13 +67,3 @@ I firmly believe that the most elegant engineering solutions emerge from a deep 
 
 ---
 
-🚀 Academic Objectives
-===================
-I am eager to leverage my multifaceted experience to pursue a **Ph.D.** and contribute to groundbreaking research in:
-
-*   **Power Electronics & Drives**
-*   **Electric Vehicles**
-*   **AI/ML Applications in Power Systems**
-*   **Smart Grids & Microgrids**
-
-I am actively seeking to join a visionary research group where I can both learn from and contribute to tackling the critical energy challenges of our time.
