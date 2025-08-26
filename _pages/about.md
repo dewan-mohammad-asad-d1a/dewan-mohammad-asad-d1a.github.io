@@ -8,17 +8,23 @@ redirect_from:
 ---
 
 
-### Homepage Content for Dewan Mohammad Asad
 
-(Headline)
 #### Engineering a Smarter, Electrified Future
+Hello, I am Dewan Mohammad Asad, an Electrical Engineer and Research Assistant dedicated to advancing the frontiers of power electronics and sustainable energy systems. I am currently pursuing my M.Sc. at the Bangladesh University of Engineering & Technology (BUET), consistently ranked as the premier engineering institution in the country, where I also completed my undergraduate degree.
 
-(Welcome Statement)
-Welcome. I am Dewan Mohammad Asad, an Electrical Engineer and Research Assistant dedicated to advancing the frontiers of power electronics and sustainable energy systems. My work sits at the confluence of high-fidelity hardware design and intelligent software algorithms, with a singular goal: to create robust and intelligent solutions for the next generation of power infrastructure and electric mobility.
+
+
+> Engineering a Smarter, Electrified Future
+
+Welcome to my academic portfolio. I am an Electrical Engineer and Research Assistant dedicated to advancing the frontiers of power electronics and sustainable energy systems. My work sits at the confluence of high-fidelity hardware design and intelligent software algorithms, with a singular goal: to create robust and intelligent solutions for the next generation of power infrastructure and electric mobility.
 
 I am currently pursuing my M.Sc. at the Bangladesh University of Engineering & Technology (BUET), consistently ranked as the premier engineering institution in the country, where I also completed my undergraduate degree with distinction.
 
-(Featured Research Highlights)
+---
+
+
+Research Highlights
+===================
 
 My research is driven by a passion for solving complex, real-world problems. Below are the key initiatives I am leading:
 
