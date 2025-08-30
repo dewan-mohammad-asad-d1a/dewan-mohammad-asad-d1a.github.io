@@ -11,9 +11,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Experience"
-    url: /experience/    
-
   - title: "Projects"
     url: /projects/    
       
@@ -29,6 +26,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
+  # - title: "Experience"
+  #   url: /experience/    
 
     
   # - title: "CV"
