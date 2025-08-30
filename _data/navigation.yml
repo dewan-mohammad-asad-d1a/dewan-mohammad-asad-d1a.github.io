@@ -17,11 +17,11 @@ main:
   - title: "Projects"
     url: /projects/    
       
-  - title: "CV"
-    url: /files/Dewan-Mohammad-Asad-Resume.pdf
+  - title: "CV & Transcript"
+    url: /cv/
      
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
     
   # - title: "Portfolio"
   #   url: /portfolio/
