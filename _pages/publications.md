@@ -11,14 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
 
 ## Journal Papers
+======================
+
 
 <ul>
   <li>
@@ -27,6 +23,7 @@ author_profile: true
 </ul>
 
 ## Conference Papers
+=======================
 
 <ul>
   <li>
