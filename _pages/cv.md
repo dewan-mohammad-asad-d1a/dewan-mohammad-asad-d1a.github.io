@@ -10,11 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-# Downloads
+# Downloads 
 
-- [BSc Transcript](files/PersonalFiles/bsc_transcript.pdf)
-- [CV / Resume](files/PersonalFiles/Dewan-Mohammad-Asad-cv-Resume.pdf)
-
-
-- <a href="/PersonalFiles/bsc_transcript.pdf" target="_blank" rel="noopener">BSc Transcript</a>
-- <a href="/PersonalFiles/Dewan-Mohammad-Asad-cv-Resume.pdf" target="_blank" rel="noopener">CV / Resume</a>
+- <a href="https://dewan-mohammad-asad-d1a.github.io/cv/files/PersonalFiles/Dewan-Mohammad-Asad-cv-Resume.pdf" target="_blank" rel="noopener">CV / Resume</a>
+- <a href="https://dewan-mohammad-asad-d1a.github.io/cv/files/PersonalFiles/bsc_transcript.pdf" target="_blank" rel="noopener">BSc Transcript</a>
