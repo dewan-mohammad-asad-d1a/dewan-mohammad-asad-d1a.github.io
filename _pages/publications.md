@@ -11,17 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-## Journal Papers
-------------
-
-
-<ul>
-  <li>
-    <b>Dewan Mohammad Asad</b>, Mahin Shahriar, and Abdul Hasib Chowdhury "High-Accuracy Power Quality Disturbance Classification Using Vision Transformers and GASF Encoded Signals", <i>International Journal of Electrical Power and Energy Systems</i> (Submitted)
-  </li>
-</ul>
-
 ------------
 ## Conference Papers
 ------------
