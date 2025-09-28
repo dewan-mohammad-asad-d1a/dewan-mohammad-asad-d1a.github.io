@@ -16,4 +16,4 @@ author_profile: true
 **Writing**: 7  
 **Speaking**: 7.5  
 
-![IELTS Score Report](/images/ielts_score.jpg)
+![IELTS Score Report](/images/Ielts_score.jpg)
