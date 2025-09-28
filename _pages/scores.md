@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Standardized Test Scores"
+title: "Scores"
 permalink: /scores/
 author_profile: true
 ---
