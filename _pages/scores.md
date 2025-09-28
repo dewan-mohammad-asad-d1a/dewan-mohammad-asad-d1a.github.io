@@ -16,6 +16,4 @@ author_profile: true
 **Writing**: 7  
 **Speaking**: 7.5  
 
-![IELTS Score Report]({{ base_path }}/images/ielts_score.jpg)
-
-*Image: My IELTS score report from 26 September 2025*
+![IELTS Score Report](/images/ielts_score.jpg)
