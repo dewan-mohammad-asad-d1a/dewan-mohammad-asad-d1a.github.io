@@ -16,6 +16,9 @@ main:
       
   - title: "CV & Transcript"
     url: /cv/
+      
+  - title: "Scored"
+    url: /scores/
      
   # - title: "Guide"
   #   url: /markdown/
