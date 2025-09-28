@@ -1,21 +1,21 @@
 ---
 layout: archive
-title: "Standardized Test S"
+title: "Standardized Test Scores"
 permalink: /scores/
 author_profile: true
 ---
 
 {% include base_path %}
 
+# IELTS
 
-# IELTS 
-===============================
+**Test Date**: 26 September, 2025  
+**Overall Score**: 8  
+**Listening**: 8  
+**Reading**: 9  
+**Writing**: 7  
+**Speaking**: 7.5  
 
-Test Date: 26 September, 2025
-Overall Score: 8
-Listening: 8
-Reading: 9
-Writing: 7
-Speaking: 7.5
+![IELTS Score Report]({{ base_path }}/images/ielts_score.jpg)
 
-
+*Image: My IELTS score report from 26 September 2025*
