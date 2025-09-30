@@ -31,7 +31,7 @@ Research Highlights
 **Supervisor:** Dr. Muhammad Abdullah Arafat, Associate Professor, Dept. of EEE, BUET  
 **Timeline:** 2024 – Present  
 
-- Developing an energy optimization model for EVs using **Google Maps API traffic and elevation data** to forecast commute energy demand.  
+- Developing an energy prediction model for EVs using **Google Maps API traffic and elevation data** to forecast commute energy demand.  
 - Collaborating with **Palki Motors**, Bangladesh’s first EV manufacturer, for proprietary vehicle and battery datasets.  
 - Implementing **physics-based, ML, and DL models** for accurate EV energy prediction.  
 - Designed a **user-centric application concept** to mitigate range anxiety with intelligent routing and charging recommendations.  
