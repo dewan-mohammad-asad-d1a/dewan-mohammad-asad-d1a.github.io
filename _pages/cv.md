@@ -12,5 +12,5 @@ redirect_from:
 
 # Downloads 
 
-- <a href="https://dewan-mohammad-asad-d1a.github.io/files/PersonalFiles/CV-of-Dewan-Mohammad-Asad.pdf.pdf" target="_blank" rel="noopener">CV / Resume</a>
+- <a href="https://dewan-mohammad-asad-d1a.github.io/files/PersonalFiles/CV-of-Dewan-Mohammad-Asad.pdf" target="_blank" rel="noopener">CV / Resume</a>
 - <a href="https://dewan-mohammad-asad-d1a.github.io/files/PersonalFiles/bsc_transcript.pdf" target="_blank" rel="noopener">B.Sc. Transcript</a>
