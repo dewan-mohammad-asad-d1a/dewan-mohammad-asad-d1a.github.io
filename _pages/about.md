@@ -57,7 +57,7 @@ Research Highlights
 **Timeline:** May 2023 – Present  
 
 - Investigating **AI-driven control strategies** to enhance transient performance in SEPIC converters.  
-- Applied **PSO, Genetic Algorithms, and Reinforcement Learning** for optimal controller tuning.  
+- Applied **PSO, Genetic Algorithms, ANN, ANFIS, and Reinforcement Learning** for optimal controller tuning.  
 - Analyzed converter operation in **CCM and DCM conduction modes**.  
 
 **Acquired Skills:** DC-DC Converter Design & Control, AI/ML for Power Electronics, Optimization Algorithms (PSO, GA, ANN, ANFIS, RL), MATLAB/Simulink, PLECS.  
