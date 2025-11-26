@@ -8,9 +8,9 @@ author_profile: true
 {% include base_path %}
 
 # GRE
-**Verbal Reasoning** : 161 (86th Percentile)  
-**Quantitative Reasoning** : 168 (81st Percentile)   
-**Analytical Writing** : 4.5 (85th Percentile)   
+**Verbal Reasoning**: 161 (86th Percentile)  
+**Quantitative Reasoning**: 168 (81st Percentile)   
+**Analytical Writing**: 4.5 (85th Percentile)   
 ![GRE Score Report](/images/GRE_score.jpg)   
 
 # IELTS
